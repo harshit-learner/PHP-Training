@@ -1,7 +1,0 @@
-/*
-            selector
-            {
-                property1: value1; => Declaration
-                property2: value2; => Declaration
-            }
-*/
